@@ -1,0 +1,7 @@
+<view class="container">
+    <image class="avatar" src="/images/avatar/1.png"></image>
+    <text class="motto">Hello, 孟仁梓</text>
+    <view class="journey-container" bindtap="onTap">
+        <text class="journey">仁梓小舍</text>
+    </view>
+</view>
